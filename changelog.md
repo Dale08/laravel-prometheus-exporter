@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0 - 2023-04-27
+
+* Laravel 10 compatability
+
 ## 1.0.5 - 2020-03-16
 
 * Update call to array_get helper to use the Illuminate\Support\Arr class
@@ -11,7 +15,7 @@
 
 ## 1.0.3 - 2019-02-11
 
-* Enable package discovery for laravel 5.5+ 
+* Enable package discovery for laravel 5.5+
 
 ## 1.0.2 - 2019-01-16
 
